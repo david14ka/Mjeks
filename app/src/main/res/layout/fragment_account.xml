@@ -5,11 +5,10 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-
     <include layout="@layout/toolbar"/>
 
     <TextView
-        android:id="@+id/text_home"
+        android:id="@+id/text_account"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"

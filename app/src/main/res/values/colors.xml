@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#52B0E9</color>
+    <color name="colorPrimaryDark">#2B9EE4</color>
+    <color name="colorAccent">#FD9801</color>
+
+
+    <color name="m_jek_general">#52B0E9</color>
+    <color name="m_jek_food">#FE5041</color>
+    <color name="m_jek_pay">#92C142</color>
+    <color name="btn_login">#00CCFF</color>
+    <color name="btn_inscription">#FD9801</color>
+    <color name="white">#fff</color>
 </resources>
